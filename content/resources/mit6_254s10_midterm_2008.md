@@ -5,6 +5,7 @@ description: This resource contains 3 problem about consider a game with two pla
   structure.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-254-game-theory-with-engineering-applications-spring-2010/16dcbd7a7cef8658a15d752324898496_MIT6_254S10_midterm_2008.pdf
 file_type: application/pdf
+parent_uid: d881d9a2-dd1d-4753-603f-154269e6de3b
 resourcetype: Document
 title: MIT6_254S10_midterm_2008.pdf
 uid: 16dcbd7a-7cef-8658-a15d-752324898496
